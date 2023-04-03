@@ -21,7 +21,7 @@
 
 2 pip install -U NumPy
 
-3 python assignment_3.py
+3 python assignment_3.py ( or python /src/main/assignment_3.py)
 
 
 
